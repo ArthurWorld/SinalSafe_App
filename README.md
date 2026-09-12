@@ -57,3 +57,9 @@ Android: use a opção de escanear QR Code no Expo Go.
 iPhone: use a câmera e abra o link no Expo Go.
 
 Mantenha o terminal aberto durante o uso. Para encerrar, pressione Ctrl + C.
+
+
+
+
+
+Link Para o Pitch: https://youtube.com/shorts/4ZlEHQ_ZLDg
